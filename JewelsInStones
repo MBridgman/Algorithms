@@ -10,6 +10,5 @@ var numJewelsInStones = function(J, S) {
             numJewels++;
         }
     }
-    return numJewels;
-    
+    return numJewels;  
 };
