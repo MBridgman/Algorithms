@@ -22,6 +22,9 @@ function readLine() {
     return inputString[currentLine++];
 }
 
+// calculate grades
+
+
 function getGrade(score) {
     let grade;
     // Write your code here
