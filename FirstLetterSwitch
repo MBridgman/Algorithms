@@ -1,3 +1,4 @@
+// first letter switch
 'use strict';
 
 process.stdin.resume();
